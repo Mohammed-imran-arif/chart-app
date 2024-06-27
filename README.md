@@ -23,8 +23,8 @@ Prerequisites
 * Installation
 
 1. Clone the repository:
-   git clone https://github.com/Mohammed-imran-arif/chart-app.git
-   cd react-line-chart
+   - git clone https://github.com/Mohammed-imran-arif/chart-app.git
+   - cd chart-app
 
 Install dependencies:
 - npm install
